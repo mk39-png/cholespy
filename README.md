@@ -50,7 +50,7 @@ pip install cholespy
 ## From source
 
 ```bash
-git clone --recursive https://github.com/rgl-epfl/cholespy
+git clone --recursive https://github.com/mk39-png/cholespy
 pip install ./cholespy
 ```
 
